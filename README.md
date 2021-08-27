@@ -1,8 +1,8 @@
 
-# Introduction:-
+# Introduction
 
 This repository contains Top 50 Linux Commands You Must Know as a Regular User 🐧.
-# Commands:-
+# Commands
 1. ls - view contents of directory (list)
 
 2. pwd - path of the current directory

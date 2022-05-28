@@ -102,3 +102,11 @@ This repository contains Top 50 Linux Commands You Must Know as a Regular User �
 49. ip a - similar to ifconfig but shortest print
 
 50. finger - gives you a short dump of info about a user
+
+## Contribution 💡
+
+You can contribute to this repo by adding more commands that are missing here. 
+
+# Connect with Me 🤝
+
+

@@ -106,8 +106,10 @@ This repository contains Top 50 Linux Commands You Must Know as a Regular User �
 ## Contribution 💡
 
 You can contribute to this repo by adding more commands that are missing here. 
+
+
 To add new commands, [Click Here](https://github.com/thegeekyb0y/linuxcommands/issues/new/choose)
 
-# Connect with Me 🤝
-
+## Connect with Me 🤝
+[Instagram](https://www.instagram.com/thegeekyb0y) | [Twitter](https://www.twitter.com/thegeekyb0y) | [Linkedin](https://www.linkedin.com/in/adityacodes)
 

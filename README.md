@@ -1,7 +1,7 @@
 
 # Introduction
 
-This repository contains Top 50 Linux Commands You Must Know as a Regular User 🐧.
+This repository contains Top 55 Linux Commands You Must Know as a Regular User 🐧.
 # Commands
 1. ls - view contents of directory (list)
 
@@ -102,6 +102,16 @@ This repository contains Top 50 Linux Commands You Must Know as a Regular User �
 49. ip a - similar to ifconfig but shortest print
 
 50. finger - gives you a short dump of info about a user
+
+51. nano - opens up an editor to edit the files
+
+52. date - used to display or set system date and time
+
+53. reboot - instructs the system to restart or reboot
+
+54. shutdown - used for shutting down the system
+
+55. rcp - used to copy files from one computer to another computer
 
 ## Contribution 💡
 
